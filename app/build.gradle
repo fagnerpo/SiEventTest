@@ -59,11 +59,9 @@ dependencies {
     implementation "com.squareup.retrofit2:converter-gson:2.9.0"
 
     //coroutines
-    def ktx_version="1.4.0"
     implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:$ktx_version"
     implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:$ktx_version"
 
-    def koin_version= "3.1.2"
     implementation "io.insert-koin:koin-android:$koin_version"
     implementation "io.insert-koin:koin-android-compat:$koin_version"
     implementation "io.insert-koin:koin-androidx-workmanager:$koin_version"
