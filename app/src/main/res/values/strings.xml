@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Eventos</string>
+    <string name="action_settings">Settings</string>
+    <string name="home_fragment_label">Eventos</string>
+    <string name="details_fragment_label">Details</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="button_share">Compartilhar</string>
+    <string name="button_checkin">Check-in</string>
+    <string name="input_nome">Nome</string>
+    <string name="input_mail">E-mail</string>
+    <string name="data_to_checkin">Informe os dados para check-in</string>
+    <string name="button_do_checkin">Fazer check-in</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
